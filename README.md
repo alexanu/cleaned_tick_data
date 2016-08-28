@@ -1,7 +1,7 @@
 # How to use this repo
-1. Run download.sh. This file needs 3 args: your_data_folder, start_year, and end_year
+1. Run __download.sh__. This file needs 3 args: your_data_folder, start_year, and end_year
 2. Wait for the data is completely download to your directory. ( This may take a while. Go out, run, then come back)
-3. Run process.py. This file needs 1 arg: your_data_folder (assuming the data download using download.sh)
+3. Run __process.py__. This file needs 1 arg: your_data_folder (assuming the data download using download.sh)
 4. Grab a cup of coffee, and relax.
 
 ### Example 
