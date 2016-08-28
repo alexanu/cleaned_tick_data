@@ -18,14 +18,14 @@ python process.py your_data_folder
 ![Alt](https://cloud.githubusercontent.com/assets/6142514/18031390/e8db55b6-6ca3-11e6-9094-25ee605f05d9.PNG)
 
 ## pocess.py result:
-![Alt](https://cloud.githubusercontent.com/assets/6142514/18031390/e8db55b6-6ca3-11e6-9094-25ee605f05d9.PNG)
+![Alt](https://cloud.githubusercontent.com/assets/6142514/18031405/74f7d8e4-6ca4-11e6-9a45-905b9fdb5791.PNG)
 
 ## Check out the example csv file
 The data is in format
 
      
-     |Currency pairs|time_stamp|Bid|Ask|
-     |--------------|----------|---|---|
+     | Currency pairs | time_stamp | Bid | Ask |
+     | -------------- | ---------- | --- | --- |
 
 &copy; 
 [hptran.me](http://hptran.me)
